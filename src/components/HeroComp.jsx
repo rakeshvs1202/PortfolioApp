@@ -1,6 +1,6 @@
 import React from 'react'
 import { HERO_CONTENT } from '../constants/index'
-import profilePic from "../assets/kevinRushProfile.jpg"
+import profilePic from "../assets/pPic3.png"
 import { motion } from 'framer-motion'
 import { FaLongArrowAltRight, FaDownload } from "react-icons/fa";
 import resume from '../assets/rakesh-resume.pdf'
