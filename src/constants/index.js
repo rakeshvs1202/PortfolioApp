@@ -27,7 +27,7 @@ export const EXPERIENCES = [
     year: "Jan 2022 - Jun 2023",
     role: "UI Developer",
     company: "Capgemini",
-    description: `Worked on several implementations and coordinated with various teams to investigate, fix the defects and actively participated in agile development methodologies. Performed analysis and resolved several Kibana logs.`,
+    description: `Worked on several implementations and coordinated with various teams to investigate, fixed the defects and actively participated in agile development methodologies. Performed analysis and resolved several Kibana logs.`,
     technologies: ["Oracle-JET", "Knockout JS", "Kibana", "ALM"],
   },
   
