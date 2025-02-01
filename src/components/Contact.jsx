@@ -88,7 +88,7 @@ const Contact = () => {
         <p className='items-center mx-auto justify-center flex text-2xl my-6 '> {result} </p>
       </form>
       
-      <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center text-center mt-10 gap-4 sm:gap-8 lg:gap-12">
+      <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center text-center mt-10 gap-4 sm:gap-8 lg:gap-12 pb-20">
       <motion.div
           whileInView={{ opacity: 1, x: 0 }}
           initial={{ opacity: 0, x: -100 }}

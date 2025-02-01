@@ -11,7 +11,7 @@ const Navbar = () => {
           <img
             src={logo}
             alt="logo"
-            className="w-10 h-10 cursor-pointer z-10"
+            className="w-14 h-14 cursor-pointer z-10"
           />
         </a>
       </div>

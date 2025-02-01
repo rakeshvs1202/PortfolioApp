@@ -18,8 +18,8 @@ function HeroComp() {
       <div className='flex flex-wrap'>
         <div className='w-full lg:w-1/2'>
           <div className='flex flex-col items-center lg:items-start'>
-            <motion.h1 variants={animationCon(0)} initial="hidden" animate='visible' className='text-3xl font-thin tracking-tight lg:mt-16 lg:text-5xl'>Rakesh Varanasi Shanmukha</motion.h1>
-            <motion.span variants={animationCon(0.5)} initial="hidden" animate='visible' className='bg-gradient-to-r from-pink-300 via-slate-500 to-purple-500 bg-clip-text text-3xl tracking-tight text-transparent mt-6'>Full Stack Developer</motion.span>
+            <motion.h1 variants={animationCon(0)} initial="hidden" animate='visible' className='text-3xl font-thin tracking-tight lg:mt-16 lg:text-6xl'>Rakesh Varanasi Shanmukha</motion.h1>
+            <motion.span variants={animationCon(0.5)} initial="hidden" animate='visible' className='bg-gradient-to-r from-pink-300 via-slate-500 to-purple-500 bg-clip-text text-3xl tracking-tight text-transparent mt-6'>Full Stack Web Developer</motion.span>
             <motion.p variants={animationCon(1)} initial="hidden" animate='visible' className='my-2 max-w-2xl py-6 font-light tracking-tight text-xl'>{HERO_CONTENT}</motion.p>
 
           </div>
